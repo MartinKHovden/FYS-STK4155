@@ -1,5 +1,4 @@
-# FYS-STK project 3
-## Solving PDEs and eigenvalue problems using neural networks
+# FYS-STK4155 PROJECT 3: Solving PDEs and eigenvalue problems using neural networks
 In this project we use neural networks for solving PDEs. In particular, we will focus on the diffusion equation. The results using the neural network is compared to the forward euleur method. We will see that the precision of the classic numerical methods are better. However, there are problems where the numerical methods don't work. Using neural networks might then be a good choice.
 
 ## Structure of the repository
