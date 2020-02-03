@@ -1,5 +1,7 @@
 # FYS-STK4155 PROJECT 1: Regression methods
- First project in FYS-STK4155.
+Using various regression methods (OLS, Ridge, Lasso) for modelling the Franke function and
+terrain data from a region in Oslo. 
+
  All the code and plots are found in the folder "Data".
  Plots are named by data set, method used, and some info. FF: Franke function. LS: Least squares, TD: Terrain data, RR/Ridge:Ridge Regression. noise_i_j : noise = i.j. (noise_0_1: noise = 0.1).
 
