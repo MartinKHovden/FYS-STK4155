@@ -1,4 +1,4 @@
-# FYS-STK4155 project 2: Neural networks for classification and regression.
+# FYS-STK4155 PROJECT 2: Neural networks for classification and regression.
 
 ## General info
 The code and report is based on project 2 in the course FYS-STK4155. The goal was use neural network for classification
